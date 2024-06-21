@@ -1,5 +1,16 @@
-# Getting Started with Create React App
+# Testing place for React
 
+just wanted to play with creating a coin flipper
+
+
+
+
+
+
+
+
+
+.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
